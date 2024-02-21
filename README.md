@@ -5,7 +5,9 @@
 </p>
 
 
-
+<div align="center">
+  <img src= "https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif?cid=790b761190b6p455fgcksdudql07ymbfwd8eh0s9y6wpuxf7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
+</div>
 
 ## 👨‍💻 More about me!
 
@@ -17,9 +19,7 @@
 
 Feel free to explore them and provide feedback!
 
-<div align="center">
-  <img src= "https://media.giphy.com/media/HteV6g0QTNxp6/giphy.gif?cid=790b761190b6p455fgcksdudql07ymbfwd8eh0s9y6wpuxf7&ep=v1_gifs_search&rid=giphy.gif&ct=g"></img>
-</div>
+
 
 ## Languages and Tools
 

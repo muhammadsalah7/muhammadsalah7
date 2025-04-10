@@ -12,7 +12,7 @@
 ## 👨‍💻 More about me!
 
 - 🎓 I hold a degree in Statistics and Computer Science.
-- :sweat_smile: Interested in Software testing, QA, and frontend development
+- :sweat_smile: Interested in Software testing/QA
 - 💻 All of my projects are available at [Repositories](https://github.com/muhammadsalah7?tab=repositories)
 - 🌐 Check out my [Personal Website](https://muhammadsalah.netlify.app/)
 - 📫 You can reach me at muhammad.salahh@outlook.com

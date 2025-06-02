@@ -16,7 +16,7 @@
 - 💻 All of my projects are available at [Repositories](https://github.com/muhammadsalah7?tab=repositories)
 - 🌐 Check out my [Personal Website](https://muhammadsalah.netlify.app/)
 - 📫 You can reach me at muhammad.salahh@outlook.com
-- 📄 Check [My CV](https://drive.google.com/file/d/1cInz14VO83tJpybxJ0ZtMTTPmDY9id6d/view?usp=sharing) for more info
+- 📄 Check [My CV](https://drive.google.com/file/d/1uUccQmwhli2xEybahvnW2xLB4LggZz4Q/view?usp=sharing) for more info
 
 Feel free to explore them and provide feedback!
 
@@ -36,11 +36,7 @@ I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-FF7E00?style=flat-square&logo=bun&logoColor=white)
+
 
 
 
